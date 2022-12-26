@@ -1,0 +1,15 @@
+Vin = 780;
+f = 50;
+t = 1/f;
+ma = 0.5;
+mf1 = 20;
+mf2 = 23;
+Ac = 1;
+Ar = ma*Ac;
+fr = 2*pi*f;
+fc1 = mf1*f;
+fc2 = mf2*f;
+alpha = 180;
+R = 100;
+X = 31.4;
+L = X/(2*pi*f);
